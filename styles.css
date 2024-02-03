@@ -210,6 +210,9 @@ footer{
 .home{
     margin-left: 20px;
 }
+.home-txt{
+    font-size:13;
+}
 .try{
     margin-right: 20px;
 }
